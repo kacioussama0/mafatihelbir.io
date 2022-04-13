@@ -443,6 +443,7 @@ footer div.container div.social span a {
 
 .carousel img {
     width: 100%;
+    filter: grayscale(1);
     height: 600px;
     object-fit: cover;
 }
